@@ -30,3 +30,5 @@ machine learning lectures
 第十二章：变分自动编码器与生成对抗网络
 
 第十三章：强化学习
+
+里面有一些内容相对粗糙和浅显，会在后续教学的时候，进行补充和改进。本人E-mail：zhaohan@alumni.itp.ac.cn.有好的建议和意见，欢迎发送邮件讨论。
